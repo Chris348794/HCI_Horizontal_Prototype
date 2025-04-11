@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Medical_Clinic_Tool/static/css/main.89b9914e.css",
-    "main.js": "/Medical_Clinic_Tool/static/js/main.898b5972.js",
+    "main.js": "/Medical_Clinic_Tool/static/js/main.54f0d750.js",
     "static/js/453.59b8a61b.chunk.js": "/Medical_Clinic_Tool/static/js/453.59b8a61b.chunk.js",
     "index.html": "/Medical_Clinic_Tool/index.html",
     "main.89b9914e.css.map": "/Medical_Clinic_Tool/static/css/main.89b9914e.css.map",
-    "main.898b5972.js.map": "/Medical_Clinic_Tool/static/js/main.898b5972.js.map",
+    "main.54f0d750.js.map": "/Medical_Clinic_Tool/static/js/main.54f0d750.js.map",
     "453.59b8a61b.chunk.js.map": "/Medical_Clinic_Tool/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89b9914e.css",
-    "static/js/main.898b5972.js"
+    "static/js/main.54f0d750.js"
   ]
 }
